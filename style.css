@@ -8,10 +8,13 @@
     margin-right: 500px;
     position: relative;
     top: 330px;
-    text-shadow: 2px 2px 0px rgba(11, 56, 153, 0.989);
+    text-shadow: 2px 2px 20px rgba(24, 18, 11, 0.989);
 
 }
 
+.a>a{
+        color:rgb(21, 15, 15);
+}
 
 
 .H {
@@ -125,3 +128,5 @@ body {
     z-index: index _ 1;
     box-shadow: 2px 2px 40px rgba(202, 222, 129, 0.989
     }
+
+    
