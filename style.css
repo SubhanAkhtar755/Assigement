@@ -20,7 +20,7 @@
     color: rgb(224, 210, 210);
     text-shadow: 2px 2px 50px rgb(24, 20, 20);
     position: absolute;
-    bottom: 385px;
+    bottom: 415px;
     right: 200px;
     position: fixed;
     z-index: 1;
@@ -57,7 +57,7 @@
     color: rgb(8, 8, 8);
     text-shadow: 2px 2px 0px rgb(244, 8, 8);
     position: absolute;
-    bottom: 385px;
+    bottom: 415px;
     right: 200px;
     position: fixed;
     z-index: 1;
